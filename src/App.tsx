@@ -1,5 +1,11 @@
+import Provider from "./pages/Provider";
+
 const App = () => {
-    return <></>;
+    return (
+        <>
+            <Provider />
+        </>
+    );
 };
 
 export default App;
